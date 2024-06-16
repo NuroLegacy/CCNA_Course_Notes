@@ -1,4 +1,4 @@
-# Complete CCNA 200-300 Course Notes
+# Complete CCNA 200-301 Course Notes
 
 This is my repository of my personal notes taken during Neil Andersons Complete CCNA 200-301 course.
 Each "Day" is broken down into individual chapters.
