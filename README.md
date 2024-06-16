@@ -21,7 +21,7 @@ For local conversion of these .md format files, to other friendly formats, I rec
 
 # Course Day Chapter Notes:
 
-- Day 1.  [Networking Devices](https://github.com/NuroLegacy/CCNA_Course_Notes/blob/main/Notes/Day%201)
+- Day 1.  [Networking Devices](https://github.com/NuroLegacy/CCNA_Course_Notes/blob/main/Notes/Day%201.md)
 - Day 2.  [Interfaces And Cables](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Interfaces_and_Cables.md) 
 - Day 3.  [OSI Model and TCP/IP Suite](https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSI_Model_TCPSuite.md)
 - Day 4.  [Intro to the CLI](https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/Intro_to_CLI.md)
